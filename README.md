@@ -9,3 +9,7 @@
 
 1. run `npm run savage`
 2. Navigate to `localhost:3000`
+
+<img src="savage.png"></img>
+
+Link to live site: [https://danielmtran-savage-express.netlify.app]
